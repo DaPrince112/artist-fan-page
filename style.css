@@ -2,3 +2,22 @@ h1{
     text-align: center;
 }
 
+body {
+    background-image: url('Media/giphy.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #submit{
+      border-radius: 12px;
+      font-size: 24px;
+      padding: 20px;
+  }
+
+  #box{
+      border-radius: 12px;
+      padding: 30px;
+      margin-right: 240px;
+      border-color: black;
+      width:300px
+  }
