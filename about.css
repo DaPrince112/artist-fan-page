@@ -1,3 +1,17 @@
+body{
+    background-color: brown;
+}
+
+.AboutContainer{
+    color: black;
+    width: 300x;
+    padding: 10px;
+    border: 5px solid black;
+    background: blanchedalmond;
+    margin: 0;
+
+}
+
 h1{
     text-align: center;
 }
@@ -6,7 +20,7 @@ h2{
     text-align: center;
 }
 
-article{
+.Bio{
     color: black;
     width: 300x;
     padding: 10px;
@@ -15,13 +29,17 @@ article{
     margin: 0;
 }
 
-#quotes{
-    
+.quotes{
     color: black;
     width: 300x;
     padding: 10px;
     border: 5px solid black;
     background: blanchedalmond;
     margin: 0;
+    display: flex;
+}
 
+.Images{
+display: flex;
+justify-content:center
 }

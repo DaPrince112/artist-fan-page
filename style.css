@@ -5,7 +5,7 @@ h1{
 body {
     background-image: url('Media/giphy.gif');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 150%;
   }
 
   #submit{

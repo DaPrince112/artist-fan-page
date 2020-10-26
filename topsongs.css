@@ -1,0 +1,23 @@
+iframe{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: brown;
+}
+
+article{
+    color: black;
+    width: 300x;
+    padding: 10px;
+    border: 5px solid black;
+    background: blanchedalmond;
+    margin: 0;
+    display: flex;
+}
